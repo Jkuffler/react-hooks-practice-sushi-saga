@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React from "react";
 
 function Sushi({name, image, price}) {
   //const [beltSushi , setBeltSushi ] = useState([])
